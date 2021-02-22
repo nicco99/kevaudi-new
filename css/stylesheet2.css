@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  padding: 20px;
+}
+
+body {
+  background-size: 1500px 700px;
+  background-repeat: no-repeat;
+  background-image: url(../img/image\ 2.jpg);
+  width: auto;
+  background-color: none;
+  height: 100%;
+}
+
+.container {
+  padding: 1.5rem;
+  background-blend-mode: overlay;
+  margin: 10rem auto;
+  margin-right: 35%;
+  color: white;
+  margin-left: 35%;
+  width: 500px;
+  background-color: transparent;
+  height: 70%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: 0%;
+  border-style: solid 0.5rem;
+  border-color: rgb(13, 52, 110);
+  font-size: 1rem;
+  align-items: center;
+  margin-bottom: 0%;
+  border-radius: 65px;
+  border-style: groove;
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+}
+.fname {
+  padding: 10px;
+  margin-left: 10%;
+  text-align: center;
+}
+.lname {
+  padding: 10px;
+  margin-left: 10%;
+  text-align: center;
+}
+.email {
+  padding: 10px;
+  text-align: center;
+  margin-left: 10%;
+}
+.number {
+  padding: 10px;
+  margin-left: 10%;
+  text-align: center;
+}
+.password {
+  padding: 10px;
+  margin-left: 10%;
+  text-align: center;
+}
+.cpassword {
+  padding: 10px;
+  margin-left: 10%;
+  text-align: center;
+}
+#name {
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: none;
+}
+.myprofile {
+  margin-right: 0%;
+  float: right;
+}
